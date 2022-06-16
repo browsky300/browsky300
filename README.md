@@ -6,4 +6,5 @@
 - public email: browsky300@gmail.com
 
 ### currently working on
-- shitty text-based game in rust
+- text-based game in rust (school project)
+- [kittypat.xyz](https://kittypat.xyz) \([repo](https://github.com/browsky300/KittyPat)\)
